@@ -1,1 +1,1 @@
-# This is an Ecommerce site learned from 6pp
+# This is an Ecommerce store
