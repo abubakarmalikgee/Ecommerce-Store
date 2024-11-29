@@ -22,11 +22,12 @@ const Header = () => {
         {/* Logo */}
         <div className="flex items-center">
           <a href="/" className="flex items-center">
-            <img
+          <h1 className="text-4xl font-bold text-secondary-dark">E<span className="text-gray-400">-</span>Store</h1>
+            {/* <img
               src="/path-to-your-logo/logo.png"
               alt="Logo"
               className="w-32 h-auto"
-            />
+            /> */}
           </a>
         </div>
 
